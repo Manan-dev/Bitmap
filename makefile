@@ -1,7 +1,3 @@
-# Makefile for:
-# CS130 - Spring 2021
-# Lab 4
-
 CC     = g++
 CFLAGS = -std=c++11 -g -Wall -Werror 
 FILES  = bitmap.cpp 
